@@ -31,7 +31,7 @@ typedef struct OGGMEMORYFILE
   char *data;
   int datasize;
   int dataread;
-  };
+  } OGGMEMORYFILE;
 
 struct OGGMEMORYFILE oggmemoryfile[16];
 
